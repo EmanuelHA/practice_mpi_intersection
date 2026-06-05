@@ -1,0 +1,8 @@
+//
+// Created by Sleyter Angulo on 6/2/26.
+//
+
+#ifndef PRACTICE_CROSSING_MPI_VEHICLE_H
+#define PRACTICE_CROSSING_MPI_VEHICLE_H
+
+#endif //PRACTICE_CROSSING_MPI_VEHICLE_H
